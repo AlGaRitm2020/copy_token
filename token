@@ -1,0 +1,3 @@
+#!/bin/bash
+token_path=~/Documents/token.txt
+cat $token_path | xclip -sel clip
