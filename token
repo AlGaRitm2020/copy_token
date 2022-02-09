@@ -1,3 +1,6 @@
 #!/bin/bash
-token_path=~/Documents/token.txt
+
+# paste your token path in var below
+# token file might contain only token string
+token_path=~/Documents/token.txt 
 cat $token_path | xclip -sel clip
