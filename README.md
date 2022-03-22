@@ -2,7 +2,7 @@
 This simple program copy github token from local file to clipboard. It gives you more fast using Git CLI
 
 ### Dependencies
-- **xclip** available in package managers, at least in _apt_
+- **xclip** available in package managers, such as _apt_, _pacman_
 
 ### Installation
 
